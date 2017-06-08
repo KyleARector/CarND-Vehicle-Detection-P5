@@ -8,7 +8,6 @@
 - Estimate a bounding box for vehicles detected.
 
 ---
-!["Calibration Comparison"](./output_images/calibration_example.jpg)
 
 ### Histogram of Oriented Gradients (HOG)
 
